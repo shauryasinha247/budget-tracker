@@ -19,5 +19,5 @@ This Streamlit app helps you manage your income, log expenses by category and da
 1. Make sure Python (3.7 or later) is installed  
 2. Install the required packages:  
    pip install streamlit pandas matplotlib
-3. Launch the app
+3. Launch the app: 
    streamlit run app.py
